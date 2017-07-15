@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="names">
+        <item>Philadelphia Dinner</item>
+        <item>CES 2016</item>
+        <item>Event Fest</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>6:00pm – 7:30pm, March 14-15, 2016</item>
+        <item>10:00pm – 6:00pm, April 22, 2016</item>
+        <item>9:00pm – 2:00pm, August 04, 2016</item>
+    </string-array>
+
+    <string-array name="host">
+        <item>San Jose Conference Center</item>
+        <item>Washington Conference Center</item>
+        <item>New York Conference Center</item>
+    </string-array>
+
+    <string-array name="places">
+        <item>Santa Monica Hotel</item>
+        <item>Ritz Hotel</item>
+        <item>New York Conference Center, flore 2, room 1</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>San Jose, California</item>
+        <item>Washington, Columbia DC</item>
+        <item>New York City</item>
+    </string-array>
+
+    <array name="place_picture">
+        <item>@drawable/bg_img1</item>
+        <item>@drawable/bg_img2</item>
+        <item>@drawable/bg_img2</item>
+    </array>
+
+</resources>
